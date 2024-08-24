@@ -1,0 +1,162 @@
+<resources>
+    <string name="app_name">CountryInfromation</string>
+
+    <string name="title">Alert Title</string>
+    <string name="msg">Do you want to exit </string>
+
+    <string-array name="countryName">
+
+
+        <item>Afghanistan</item>
+        <item>Armenia</item>
+        <item>Azerbaijan</item>
+        <item>Bahrain</item>
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>China</item>
+        <item>India</item>
+        <item>Japan</item>
+        <item>Nepal</item>
+        <item>Pakistan</item>
+        <item>Sri lanka</item>
+    </string-array>
+    <string-array name="population">
+
+        <item>15 millons</item>
+        <item>14 millons</item>
+        <item>13 millons</item>
+        <item>12 millons</item>
+        <item>11 millons</item>
+        <item>12 millons</item>
+        <item>5 millios</item>
+        <item>56 millions</item>
+        <item>4 milions</item>
+        <item>89 millinso</item>
+        <item>8 millions</item>
+        <item>90 millions</item>
+
+
+    </string-array>
+
+    <string name="bd">
+     "*Bangladesh Overview:*\
+Bangladesh is a country located in South Asia, bordered by India to the west, north, and east, Myanmar to the southeast, and the Bay of Bengal to the south. With a population of over 160 million people, Bangladesh is the eighth most populous country in the world. The country is known for its rich cultural heritage, lush green landscapes, and extensive river systems.\
+### Government Structure\
+*Type of Government:* Bangladesh operates under a parliamentary democracy, with a multi-party system.\
+*Legislative Branch:* The Jatiya Sangsad (National Parliament) is a unicameral body with 350 seats, including 50 reserved for women. Members are elected for five-year terms. The Parliament is responsible for making laws and policies.\
+*Executive Branch:* The President is the head of state, a largely ceremonial position elected by the Parliament. The Prime Minister is the head of government and holds executive power. The Prime Minister is usually the leader of the majority party in Parliament and is appointed by the President.\
+*Judicial Branch:* The judiciary is independent, with the Supreme Court being the highest court in the land. It includes the High Court Division and the Appellate Division, which oversee the legal system and ensure the constitutionality of laws.\
+### Political Process\
+*Elections:* General elections are held every five years to elect members of the Parliament. The electoral process is managed by the Bangladesh Election Commission, which ensures free and fair elections.\
+*Political Parties:* The major political parties include the Bangladesh Awami League, the Bangladesh Nationalist Party (BNP), and the Jatiya Party, among others. These parties play a significant role in shaping the country\'s political landscape.\
+*Local Government:* Local governance in Bangladesh is divided into divisions, districts, sub-districts, and municipalities. Local governments handle issues at the community level and play a crucial role in implementing national policies at the grassroots level.\
+### Historical Places and Figures of Bangladesh\
+Below is an image featuring some of the historical places and figures of Bangladesh:\
+![Image of historical places and figures of Bangladesh](attachment:mtvFSaI6TNsbuKT8lhgyvEgz7U4OlWQ3mWsF0pgHZtw.json)\
+*Image Description:*\
+The image contains several important landmarks and figures:\
+- *Lalbagh Fort*: A 17th-century Mughal fort located in Dhaka, featuring intricate architecture.\
+- *Shahid Minar*: A national monument commemorating the Bengali Language Movement.\
+- *Ahsan Manzil*: The former residence of the Nawab of Dhaka, now a museum.\
+- *Bangabandhu Sheikh Mujibur Rahman*: The founding father of Bangladesh.\
+- *Rabindranath Tagore*: A Bengali polymath and Nobel laureate.\
+- *Jatiya Sangsad Bhaban*: The National Parliament House, designed by architect Louis Kahn.\
+These elements reflect the rich history and cultural heritage of Bangladesh, spanning from the Mughal era to the modern day."
+           </string>
+
+
+    <string name="armenia">
+
+        "### Armenia Overview\
+*Geography:* Armenia is a landlocked country in the South Caucasus region of Eurasia. It shares borders with Turkey to the west, Georgia to the north, Azerbaijan to the east, and Iran and the Azerbaijani exclave of Nakhchivan to the south. The country is known for its mountainous terrain and picturesque landscapes.\
+*Population and Culture:* Armenia has a population of approximately 3 million people. The majority of the population are ethnic Armenians, and the official language is Armenian. Christianity is the dominant religion, and Armenia is noted for being the first nation to adopt Christianity as a state religion in the early 4th century.\
+*History:* With a rich and ancient history, Armenia is home to one of the world\'s oldest civilizations. It has been part of various empires, including the Roman, Byzantine, and Ottoman empires. The Armenian Genocide of 1915-1917, during which 1.5 million Armenians were killed by the Ottoman Empire, remains a crucial part of the country\'s history and identity.\
+### Government Structure\
+*Type of Government:* Armenia is a unitary, democratic republic with a semi-presidential system.\
+#### *Legislative Branch:*\
+- *Parliament (National Assembly):* The legislative power is vested in the National Assembly, which is a unicameral body consisting of at least 101 members elected for five-year terms through a proportional representation system. The Parliament enacts laws, approves the budget, and oversees the activities of the government.\
+#### *Executive Branch:*\
+- *President:* The President of Armenia serves as the head of state with largely ceremonial roles. The President is elected by the National Assembly for a seven-year term and cannot serve consecutive terms. The President\'s duties include representing the country internationally and ensuring the constitution is upheld.\
+- *Prime Minister:* The Prime Minister is the head of government and holds executive power. The Prime Minister is appointed by the President but is typically the leader of the majority party or coalition in the National Assembly. The Prime Minister leads the Cabinet and is responsible for implementing laws and policies.\
+#### *Judicial Branch:*\
+- *Court System:* Armenia\'s judiciary is independent, with the highest body being the Constitutional Court. This court has the authority to determine the constitutionality of laws and acts. The judiciary also includes the Court of Cassation and various levels of lower courts.\
+#### *Local Government:*\
+- *Administrative Divisions:* Armenia is divided into provinces (marzes) and the capital city of Yerevan. Each province is administered by a governor appointed by the government. Local self-government is carried out through elected councils and mayors in municipalities.\
+### Historical Places and Figures of Armenia\
+Here is an image featuring some of the historical places and figures of Armenia:\
+![Image of historical places and figures of Armenia](https://i.imgur.com/JcaM6Pi.jpg)\
+*Image Description:*\
+1. *Khor Virap Monastery:* A significant religious site located near Mount Ararat, where Saint Gregory the Illuminator was imprisoned before converting Armenia to Christianity.\
+2. *Geghard Monastery:* A medieval monastery partially carved out of the adjacent mountain, known for its architecture and historical significance.\
+3. *Erebuni Fortress:* An ancient Urartian fortress located in Yerevan, dating back to 782 BC, considered the birthplace of the Armenian capital.\
+4. *Mount Ararat:* Although located in modern-day Turkey, Mount Ararat is a national symbol of Armenia and is closely associated with Armenian culture and history.\
+5. *Saint Gregory the Illuminator:* A religious figure credited with converting Armenia to Christianity in 301 AD.\
+6. *Tigran the Great:* A prominent Armenian king who ruled during the 1st century BC and expanded the Armenian Empire to its greatest extent.\
+These elements showcase Armenia\'s rich cultural and historical heritage, spanning from ancient times to the present day."
+
+    </string>
+
+
+    <string name="azerbaijan">
+        "### Azerbaijan Overview\
+*Geography:* Azerbaijan is located at the crossroads of Eastern Europe and Western Asia, bordered by the Caspian Sea to the east, Russia to the north, Georgia to the northwest, Armenia to the west, and Iran to the south. It also shares a small border with Turkey in the northwest through the autonomous exclave of Nakhchivan. The country is known for its diverse landscape, ranging from the semi-arid plains of the Caspian coast to the mountainous regions of the Greater and Lesser Caucasus.\
+*Population and Culture:* Azerbaijan has a population of approximately 10 million people. The majority of the population are ethnic Azerbaijanis, and the official language is Azerbaijani. Islam is the predominant religion, with most people identifying as Shia Muslims. The country is also known for its rich cultural heritage, including traditional music, art, and literature.\
+*History:* Azerbaijan has a rich and varied history, having been part of various empires and states, including the Persian, Ottoman, and Russian empires. It declared independence from the Russian Empire in 1918, becoming the first secular democratic republic in the Muslim world. After a brief period of independence, Azerbaijan became part of the Soviet Union in 1920 and regained its independence in 1991 following the collapse of the USSR.\
+### Government Structure\
+*Type of Government:* Azerbaijan is a unitary semi-presidential republic.\
+#### *Legislative Branch:*\
+- *Milli Majlis (National Assembly):* The legislative power is vested in a unicameral parliament known as the Milli Majlis. It consists of 125 members elected for five-year terms. The parliament is responsible for enacting laws, approving the budget, and overseeing the government\'s activities.\
+#### *Executive Branch:*\
+- *President:* The President of Azerbaijan is the head of state and holds significant executive power. The President is elected by popular vote for a seven-year term and can be re-elected multiple times. The President appoints the Prime Minister and other members of the government, and has the authority to dissolve the parliament and call for new elections.\
+- *Prime Minister:* The Prime Minister is the head of government and is responsible for implementing the President\'s policies. The Prime Minister is appointed by the President and confirmed by the parliament. The role of the Prime Minister is largely administrative and coordinating.\
+#### *Judicial Branch:*\
+- *Court System:* The judiciary in Azerbaijan is independent, with the Constitutional Court being the highest court. The court system also includes the Supreme Court, the Court of Appeal, and various lower courts. The judiciary is responsible for interpreting the law and ensuring justice.\
+#### *Local Government:*\
+- *Administrative Divisions:* Azerbaijan is divided into 66 administrative districts (rayons) and 11 cities, including the capital city, Baku. Each district and city has its own local government, led by an executive head appointed by the President. Local governments are responsible for managing local affairs and implementing national policies at the local level.\
+### Historical Places and Figures of Azerbaijan\
+Below is an image featuring some of the historical places and figures of Azerbaijan:\
+![Image of historical places and figures of Azerbaijan](https://i.imgur.com/M5rtXxU.jpg)\
+*Image Description:*\
+1. *Maiden Tower (Giz Galasi):* Located in the Old City of Baku, this 12th-century tower is a UNESCO World Heritage Site and a symbol of Baku.\
+2. *Palace of the Shirvanshahs:* A 15th-century palace in Baku, also part of the UNESCO World Heritage Site, showcasing the architectural style of the Shirvanshahs.\
+3. *Heydar Aliyev Center:* A modern architectural landmark in Baku designed by Zaha Hadid, representing the cultural and futuristic aspirations of Azerbaijan.\
+4. *Gobustan Rock Art Cultural Landscape:* An archaeological reserve with ancient rock carvings, mud volcanoes, and gas-stones, reflecting human settlement dating back to the Stone Age.\
+5. *Nizami Ganjavi:* A 12th-century Persian poet from Ganja, known for his influential works like the \"Khamsa\" (Quintet).\
+6. *Heydar Aliyev:* The third president of Azerbaijan, serving from 1993 to 2003, and a key figure in the country’s post-Soviet history.\
+These elements highlight the blend of ancient heritage and modern development in Azerbaijan, reflecting its unique position at the crossroads of different cultures and civilizations."
+    </string>
+
+
+    <string name="bahrain">
+"### Bahrain Overview\
+*Geography:* Bahrain is an archipelago consisting of 33 natural islands and several man-made islands, located in the Persian Gulf. It is bordered by Saudi Arabia to the west and is connected to it by the King Fahd Causeway. Qatar lies to the southeast across the Gulf of Bahrain. The country has a total area of about 780 square kilometers, making it one of the smallest nations in the world.\
+*Population and Culture:* Bahrain has a population of around 1.7 million people, with a significant portion of expatriates. The official language is Arabic, but English is widely spoken. Islam is the state religion, and the majority of the population is Muslim, with a mix of Sunni and Shia communities. Bahrain has a rich cultural heritage influenced by various civilizations that have settled in the region throughout history.\
+*History:* Bahrain has been inhabited since ancient times and was known for its pearl fisheries and as a trading hub. It was part of the Dilmun civilization and later came under the influence of various empires, including the Babylonians, Greeks, Persians, and Arabs. In the 19th century, Bahrain became a British protectorate until it gained independence in 1971. Since then, it has developed into a modern state with a focus on banking, tourism, and oil production.\
+### Government Structure\
+*Type of Government:* Bahrain is a constitutional monarchy with a parliamentary system.\
+#### *Executive Branch:*\
+- *Monarch:* The King of Bahrain is the head of state and holds significant executive authority. The King is the supreme authority over the executive, legislative, and judicial branches. The monarchy is hereditary, passing to the eldest son or a chosen male relative.\
+- *Prime Minister:* The Prime Minister is the head of government and is appointed by the King. The Prime Minister leads the Cabinet and is responsible for implementing laws and policies. The Prime Minister is often a member of the royal family.\
+#### *Legislative Branch:*\
+- *National Assembly (Al-Majlis al-Watani):* The legislature is bicameral, consisting of two houses:\
+  - *Council of Representatives (Majlis al-Nuwab):* This is the lower house, with 40 members elected by popular vote for four-year terms.\
+  - *Shura Council (Majlis al-Shura):* This is the upper house, with 40 members appointed by the King. Members include professionals, technocrats, and representatives of various groups.\
+- The National Assembly is responsible for drafting and enacting laws, reviewing government policies, and overseeing the executive branch.\
+#### *Judicial Branch:*\
+- *Court System:* Bahrain\'s judiciary is independent, and the highest court is the Court of Cassation. The judiciary also includes the Constitutional Court, which reviews the constitutionality of laws, and various lower courts.\
+#### *Local Government:*\
+- *Administrative Divisions:* Bahrain is divided into four governorates: Capital, Muharraq, Northern, and Southern. Each governorate is administered by a governor appointed by the King and has its own municipal council elected by residents.\
+### Historical Places and Figures of Bahrain\
+Here is an image featuring some of the historical places and figures of Bahrain:\
+![Image of historical places and figures of Bahrain](https://i.imgur.com/OuvQtq8.jpg)\
+*Image Description:*\
+1. *Bahrain Fort (Qal\'at al-Bahrain):* Also known as the Portuguese Fort, this UNESCO World Heritage Site is an ancient fortification dating back to the Dilmun civilization, located in the Northern Governorate of Bahrain.\
+2. *Al Fateh Grand Mosque:* One of the largest mosques in the world, located in the capital city, Manama. It is a significant religious and cultural landmark in Bahrain.\
+3. *Bab Al Bahrain:* A historic building and gate located in Manama, marking the entrance to the Manama Souq, a popular marketplace and cultural site.\
+4. *Tree of Life (Shajarat-al-Hayat):* A lone, centuries-old tree located in the desert, famous for its resilience and the mystery surrounding its water source.\
+5. *Pearling Path (Pearl Diving Heritage):* A cultural heritage site in Muharraq, celebrating Bahrain’s historic pearl diving industry and its economic and cultural significance.\
+6. *Sheikh Isa bin Salman Al Khalifa:* The first Emir of Bahrain after independence, who ruled from 1961 to 1999 and played a significant role in the country’s modern development.\
+These elements reflect Bahrain\'s blend of ancient heritage and modern development, showcasing its unique cultural and historical significance in the region."
+    </string>
+
+</resources>
